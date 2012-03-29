@@ -1,6 +1,6 @@
 (function(win){
 	
-	"user strict";
+	"use strict";
 	
 	var _size = [0,0];
 	var _callback;
